@@ -70,53 +70,5 @@
     "blogtitle": "Vue.js Basics",
     "blogdescription": "An introduction to Vue.js and its core concepts.",
     "blogauthor": "Nahid"
-  },
-  {
-    "blogid": 13,
-    "blogtitle": "Angular for Beginners",
-    "blogdescription": "Learn the basics of Angular framework.",
-    "blogauthor": "Neon"
-  },
-  {
-    "blogid": 14,
-    "blogtitle": "Advanced Angular Techniques",
-    "blogdescription": "Deep dive into advanced techniques in Angular.",
-    "blogauthor": "Nahid"
-  },
-  {
-    "blogid": 15,
-    "blogtitle": "Node.js Fundamentals",
-    "blogdescription": "A guide to understanding the fundamentals of Node.js.",
-    "blogauthor": "Neon"
-  },
-  {
-    "blogid": 16,
-    "blogtitle": "Express.js Tutorial",
-    "blogdescription": "Learn how to build web applications with Express.js.",
-    "blogauthor": "Nahid"
-  },
-  {
-    "blogid": 17,
-    "blogtitle": "RESTful API Design",
-    "blogdescription": "Best practices for designing RESTful APIs.",
-    "blogauthor": "Neon"
-  },
-  {
-    "blogid": 18,
-    "blogtitle": "GraphQL Basics",
-    "blogdescription": "An introduction to GraphQL and its advantages.",
-    "blogauthor": "Nahid"
-  },
-  {
-    "blogid": 19,
-    "blogtitle": "Understanding TypeScript",
-    "blogdescription": "A comprehensive guide to TypeScript and its features.",
-    "blogauthor": "Neon"
-  },
-  {
-    "blogid": 20,
-    "blogtitle": "Mastering Git",
-    "blogdescription": "Learn how to master version control with Git.",
-    "blogauthor": "Nahid"
   }
 ]

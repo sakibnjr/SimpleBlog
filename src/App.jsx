@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <div className="mx-10 my-2">
+      <div className="mx-10 my-6">
         <Home />
       </div>
     </div>
