@@ -1,0 +1,122 @@
+[
+  {
+    "blogid": 1,
+    "blogtitle": "Exploring JavaScript",
+    "blogdescription": "An in-depth look at JavaScript and its features.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 2,
+    "blogtitle": "Understanding CSS",
+    "blogdescription": "A comprehensive guide to CSS and how to use it effectively.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 3,
+    "blogtitle": "HTML for Beginners",
+    "blogdescription": "A beginner's guide to HTML and creating web pages.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 4,
+    "blogtitle": "Advanced HTML Techniques",
+    "blogdescription": "Explore advanced techniques and best practices in HTML.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 5,
+    "blogtitle": "JavaScript ES6 Features",
+    "blogdescription": "An overview of the new features introduced in JavaScript ES6.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 6,
+    "blogtitle": "Responsive Web Design",
+    "blogdescription": "How to make your website responsive and mobile-friendly.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 7,
+    "blogtitle": "CSS Flexbox Guide",
+    "blogdescription": "A complete guide to using Flexbox in CSS.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 8,
+    "blogtitle": "CSS Grid Layout",
+    "blogdescription": "Learn how to create complex layouts with CSS Grid.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 9,
+    "blogtitle": "JavaScript Asynchronous Programming",
+    "blogdescription": "Understanding asynchronous programming in JavaScript.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 10,
+    "blogtitle": "Building Single Page Applications",
+    "blogdescription": "A guide to building single-page applications with JavaScript.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 11,
+    "blogtitle": "Introduction to React",
+    "blogdescription": "Getting started with React for building user interfaces.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 12,
+    "blogtitle": "Vue.js Basics",
+    "blogdescription": "An introduction to Vue.js and its core concepts.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 13,
+    "blogtitle": "Angular for Beginners",
+    "blogdescription": "Learn the basics of Angular framework.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 14,
+    "blogtitle": "Advanced Angular Techniques",
+    "blogdescription": "Deep dive into advanced techniques in Angular.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 15,
+    "blogtitle": "Node.js Fundamentals",
+    "blogdescription": "A guide to understanding the fundamentals of Node.js.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 16,
+    "blogtitle": "Express.js Tutorial",
+    "blogdescription": "Learn how to build web applications with Express.js.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 17,
+    "blogtitle": "RESTful API Design",
+    "blogdescription": "Best practices for designing RESTful APIs.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 18,
+    "blogtitle": "GraphQL Basics",
+    "blogdescription": "An introduction to GraphQL and its advantages.",
+    "blogauthor": "Nahid"
+  },
+  {
+    "blogid": 19,
+    "blogtitle": "Understanding TypeScript",
+    "blogdescription": "A comprehensive guide to TypeScript and its features.",
+    "blogauthor": "Neon"
+  },
+  {
+    "blogid": 20,
+    "blogtitle": "Mastering Git",
+    "blogdescription": "Learn how to master version control with Git.",
+    "blogauthor": "Nahid"
+  }
+]
